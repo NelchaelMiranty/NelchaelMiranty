@@ -24,4 +24,5 @@ Full-Stack Developer • Founder of TekLab • Madagascar
 <p align="center">
   <i>"Turning ideas into digital solutions."</i>
 </p>
-```
+
+
