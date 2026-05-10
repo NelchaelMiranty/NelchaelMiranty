@@ -1,11 +1,9 @@
-```md
 <h1 align="center">Nelchael Miranty</h1>
 
 <p align="center">
 Full-Stack Developer • Founder of TekLab • Madagascar
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -15,7 +13,6 @@ Full-Stack Developer • Founder of TekLab • Madagascar
 - ⚡ Interested in AI, networking, cybersecurity and automation
 - 🧠 Always learning new technologies and building real-world solutions
 
----
 
 ## 🔥 Contribution Activity
 
@@ -23,7 +20,6 @@ Full-Stack Developer • Founder of TekLab • Madagascar
   <img src="./contribution-animation.svg" width="100%"/>
 </div>
 
----
 
 <p align="center">
   <i>"Turning ideas into digital solutions."</i>
