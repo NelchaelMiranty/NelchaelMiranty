@@ -40,11 +40,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelchaelMiranty&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelchaelMiranty&layout=compact&theme=tokyonight" height="180"/>
+ <img src="https://raw.githubusercontent.com/NelchaelMiranty/NelchaelMiranty/output/contribution-animation.svg"/>
 </div>
-
 ---
 
 ## 🔥 Contribution Activity
