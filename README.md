@@ -1,7 +1,7 @@
-<h1 align="center">Nelchael Miranty</h1>
+<h1 align="center">Welcome to my Github</h1>
 
 <p align="center">
-Full-Stack Developer • Founder of TekLab • Madagascar
+I'm Nelchael, Founder of TekLab • Madagascar
 </p>
 
 
