@@ -40,9 +40,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NelchaelMiranty&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelchaelMiranty&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 ## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/contribution-animation.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NelchaelMiranty&theme=tokyo-night"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/TON_USERNAME">
+  <a href="https://github.com/NelchaelMiranty">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://teklab.mg">
+  <a href="#">
     <img src="https://img.shields.io/badge/TekLab-00BFFF?style=for-the-badge"/>
   </a>
 </p>
